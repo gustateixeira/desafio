@@ -1,0 +1,11 @@
+cnpj_ordem,cnpj_dv,identificador_matriz_filial,nome_fantasia,situacao_cadastral,data_situacao_cadastral,motivo_situacao_cadastra,nome_cidade_exterior,pais,data_inicio_atividade,cnae_fiscal_principal,cnae_fiscal_secundaria,tipo_logradouro,logradouro,numero,complemento,bairro,cep,uf,municipio,ddd1,telefone1,ddd2,telefone2,ddd_fax,fax,correio_eletronico,situacao_especial,data_situacao_especial
+0007,06,1,TechHub Digital,02,2023-07-10,04,,BRA,2021-06-01,6201,6205,RUA,Rua XV de Novembro,1200,Sala 3,Centro,80020010,PR,4106902,41,984567890,,,,,contato@techhub.com.br,,
+0008,07,2,InfoTech Soluções,02,2023-08-15,06,,BRA,2019-10-05,6311,6312,AV,Avenida Getúlio Vargas,700,Andar 2,Savassi,30112000,MG,3106200,31,987654321,,,,,suporte@infotech.com.br,,
+0009,08,1,Smart Systems Labs,02,2022-11-20,09,,BRA,2020-03-15,5821,5829,RUA,Rua da Consolação,450,Bloco A,Centro,01301900,SP,3550308,11,982345678,,,,,labs@smartsystems.com.br,,
+0010,09,1,Nuvem Segura Data,02,2022-05-25,08,,BRA,2018-12-30,6312,6203,RUA,Avenida Beira-Mar,3200,Sala 505,Meireles,60165000,CE,2304400,85,988765432,,,,,info@nuvemsegura.com.br,,
+0011,10,2,WebSolutions Design,02,2023-03-12,09,,BRA,2020-07-15,6204,6399,AV,Avenida Paulista,1500,Conj. 301,Bela Vista,01311100,SP,3550308,11,983456789,,,,,vendas@websolutions.com.br,,
+0012,11,2,NextGen Software,02,2023-04-10,07,,BRA,2019-01-12,5821,6311,RUA,Rua dos Andradas,890,Andar 4,Centro,90020000,RS,4314902,51,986543210,,,,,info@nextgensoft.com.br,,
+0013,12,1,CloudData Infra,02,2022-09-14,05,,BRA,2018-03-22,6312,6202,AV,Avenida Brasil,2100,Bloco B,Jardim América,01430100,SP,3550308,11,987654321,,,,,suporte@clouddata.com.br,,
+0014,13,2,Segurança Online,02,2023-01-18,10,,BRA,2020-09-05,6203,6201,RUA,Rua do Comércio,350,Sobreloja,Centro,40010000,BA,2927408,71,985432109,,,,,suporte@segonline.com.br,,
+0015,14,1,E-Commerce Brasil,02,2022-12-01,12,,BRA,2019-11-25,6311,6312,AV,Avenida das Nações Unidas,4500,Sala 808,Brooklin,04570000,SP,3550308,11,981234567,,,,,contato@ecommercebr.com.br,,
+0016,15,2,ByteCloud Tech,02,2023-06-05,13,,BRA,2021-05-10,6202,6205,RUA,Rua da Praia,600,Loja 1,Centro,90010000,RS,4314902,51,987654321,,,,,info@bytecloud.com.br,,
