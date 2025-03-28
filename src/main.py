@@ -1,12 +1,16 @@
 import matplotlib.pyplot as plt
 from consultar import consultar
 
-dados = consultar()
+def main():
+    dados = consultar()
 
-plt.bar(dados.keys(), dados.values(),color='red')
+    plt.bar(dados.keys(), dados.values(),color='red')
 
-plt.title('Empresas por estado')
-plt.xlabel('Estados')
-plt.ylabel('Nº de estabelecimentos')
+    plt.title('Empresas por estado')
+    plt.xlabel('Estados')
+    plt.ylabel('Nº de estabelecimentos')
 
-plt.show()
+    plt.show()
+
+if __name__ == '__main__':
+    main()
