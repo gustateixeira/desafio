@@ -4,11 +4,14 @@ from sqlalchemy.exc import SQLAlchemyError
 
 
 def consultar():
+
+    # faz a consulta ao banco de dados em um try-catch para demonstrar que pode haver erro
     try:
         engine = create_engine('mysql+mysqlconnector://admin:1234@localhost/empresas')
     except SQLAlchemyError as e:
         print('Erro ao conectar')
 
+    #faz a consulta ao db
     query = 'SELECT * FROM rfb_estabelecimentos;'
 
     df = pd.read_sql(query,engine)
@@ -21,6 +24,8 @@ def consultar():
 
 
     dicionario = {}
+
+    #coloca as ufs existentes, num dicionário com CHAVES = UF , VALORES = CONTAGEM DE UFS
 
     for uf in estados:
         if uf not in dicionario:
